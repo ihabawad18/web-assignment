@@ -1,0 +1,44 @@
+[
+    {
+        "username": "ihab1",
+        "password": "ihab",
+        "fullName": "ihab",
+        "sex": "male",
+        "date-of-birth": "2023-11-30"
+    },
+    {
+        "username": "ihab2",
+        "password": "ihab",
+        "fullName": "ihab awad",
+        "sex": "male",
+        "date-of-birth": "2023-11-26"
+    },
+    {
+        "username": "ihab3",
+        "password": "ihab",
+        "fullName": "ihabawad",
+        "sex": "male",
+        "date-of-birth": "2023-11-29"
+    },
+    {
+        "username": "ihab4",
+        "password": "ihab",
+        "fullName": "ihab awadd",
+        "sex": "male",
+        "date-of-birth": "2023-11-22"
+    },
+    {
+        "username": "ihab5",
+        "password": "ihab",
+        "fullName": "ihab aa",
+        "sex": "male",
+        "date-of-birth": "2023-11-24"
+    },
+    {
+        "username": "ihabbab",
+        "password": "aa",
+        "fullName": "aa",
+        "sex": "male",
+        "date-of-birth": "2023-11-01"
+    }
+]

@@ -1,0 +1,144 @@
+
+div.parent-body{
+    margin:0;
+    margin: auto;
+    width: 53%;
+}
+
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+hr{
+    color: #942637;
+    width: 36%;
+    margin:0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;;
+}
+h3{
+    color: #942637;
+    margin-top: 3px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+h5{
+    color: black;
+    font-weight: 600;
+    margin: 0;
+}
+i{
+    color: black;
+    font-size: 16px;
+}
+ul{
+    color: black;
+    font-size: 13px;
+    padding: 0;
+    margin-left: 25px;
+}
+/* top section */
+.top-section{
+    background-color: #8d4b55;
+    height: 150px;
+    /* width: 70%; */
+    margin: auto;
+    position: relative;
+}
+.profile-pic{
+    min-width: 100px;
+    max-width: 180px;
+    min-height: 100px;
+    max-height: 180px;
+    /* width: 200px;
+    height: 200px; */
+    border-radius: 50%;
+    position: relative;
+    top: 30px;
+    left: 100px;
+}
+.top-right-div{
+    min-width: 50%;
+    position: absolute;
+    margin-left: 70px;
+    top: 50%;
+    left: 40%;
+    right: 40%;
+    transform: translateY(-50%); 
+    display: inline-block;
+    box-sizing: border-box;
+}
+.name{
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    margin: 0; 
+    box-sizing: border-box;
+    
+}
+.title{
+    color: white;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    margin: 0; 
+}
+
+/* 2nd section */
+
+.parent{
+    width: 100%;
+    height: max-content;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+    clear: both;
+}
+
+.second-section-left{
+    margin-left: 100px;
+    margin-top: 70px;
+    max-width: 40%;   
+    float: left;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+.group{
+    margin-left: 9px;
+    height: fit-content;
+    padding: 3px;
+}
+
+.inline-p{
+    margin: 0;
+    display: inline-block;
+    font-size: 13px;
+    color: black;
+    padding: 2px;
+    
+}
+
+.edit-icon{
+    width: 14px;
+    height: 13px;
+}
+
+.remove-inline{
+    display: block;
+}
+
+/* second section right */
+
+.second-section-right{
+    min-width: 40%;
+    max-width: 46%;
+    float: left;
+    box-sizing: border-box;
+}
+
+/* footer section */
+.foot-section{
+    background-color:#8d4b55 ;
+    height: 5vh;
+    clear: left;
+
+}
